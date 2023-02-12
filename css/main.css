@@ -591,6 +591,10 @@ header nav .menu .drop .submenu li:hover a {
   padding: 20px 0;
 }
 
+.asked .left p {
+width: 95%;
+}
+
 .asked .left button {
   background-color: #009fd7;
 }
